@@ -1,0 +1,16 @@
+{
+    "abstract": "Dynamical systems comprising of multiple components that can be partitioned into distinct <em>blocks</em> originate in many scientific areas. A pertinent example is the interactions between financial assets and selected macroeconomic indicators, which has been studied at <em>aggregate level</em>---e.g. a stock index and an employment index---extensively in the macroeconomics literature. A key shortcoming of this approach is that it ignores potential influences from other related components (e.g. Gross Domestic Product) that may impact the system's dynamics and structure and thus produces incorrect results. To mitigate this issue, we consider a multi-block linear dynamical system with Granger-causal ordering between blocks, wherein the blocks' temporal dynamics are described by vector autoregressive processes and are influenced by blocks higher in the system hierarchy. We derive the maximum likelihood estimator for the posited model for Gaussian data in the high- dimensional setting based on appropriate regularization schemes for the parameters of the block components. To optimize the underlying non-convex likelihood function, we develop an iterative algorithm with convergence guarantees. We establish theoretical properties of the maximum likelihood estimates, leveraging the decomposability of the regularizers and a careful analysis of the iterates. Finally, we develop testing procedures for the null hypothesis of whether a block <q>Granger-causes</q> another block of variables. The performance of the model and the testing procedures are evaluated on synthetic data, and illustrated on a data set involving log-returns of the US S&amp;P100 component stocks and key macroeconomic variables for the 2001--16 period.",
+    "authors": [
+        "Jiahe Lin",
+        "George Michailidis"
+    ],
+    "id": "17-055",
+    "issue": 117,
+    "pages": [
+        1,
+        49
+    ],
+    "title": "Regularized Estimation and Testing for High-Dimensional Multi-Block Vector-Autoregressive Models",
+    "volume": 18,
+    "year": 2017
+}

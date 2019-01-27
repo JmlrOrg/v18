@@ -1,0 +1,15 @@
+{
+    "abstract": "Over the years, different characterizations of the curse of dimensionality have been provided, usually stating the conditions under which, in the limit of the infinite dimensionality, distances become indistinguishable. However, these characterizations almost never address the form of associated distributions in the finite, although high- dimensional, case. This work aims to contribute in this respect by investigating the distribution of distances, and of direct and reverse nearest neighbors, in intrinsically high-dimensional spaces. Indeed, we derive a closed form for the distribution of distances from a given point, for the expected distance from a given point to its $k$th nearest neighbor, and for the expected size of the approximate set of neighbors of a given point in finite high-dimensional spaces. Additionally, the hubness problem is considered, which is related to the form of the function $N_k$ representing the number of points that have a given point as one of their $k$ nearest neighbors, which is also called the number of $k$-occurrences. Despite the extensive use of this function, the precise characterization of its form is a longstanding problem. We derive a closed form for the number of $k$-occurrences associated with a given point in finite high- dimensional spaces, together with the associated limiting probability distribution. By investigating the relationships with the hubness phenomenon emerging in network science, we find that the distribution of node (in-)degrees of some real-life, large-scale networks has connections with the distribution of $k$-occurrences described herein.",
+    "authors": [
+        "Fabrizio Angiulli"
+    ],
+    "id": "17-151",
+    "issue": 170,
+    "pages": [
+        1,
+        60
+    ],
+    "title": "On the Behavior of Intrinsically High-Dimensional Spaces: Distances, Direct and Reverse Nearest Neighbors, and Hubness",
+    "volume": 18,
+    "year": 2018
+}

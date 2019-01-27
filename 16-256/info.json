@@ -1,0 +1,18 @@
+{
+    "abstract": "We study the problem of learning description logic (DL) ontologies in Angluin et al.'s framework of exact learning via queries. We admit membership queries (\u00e2\u0080\u009cis a given subsumption entailed by the target ontology?\u00e2\u0080\u009d) and equivalence queries (\u00e2\u0080\u009cis a given ontology equivalent to the target ontology?\u00e2\u0080\u009d). We present three main results: (1) ontologies formulated in (two relevant versions of) the description logic DL-Lite can be learned with polynomially many queries of polynomial size; (2) this is not the case for ontologies formulated in the description logic $\\mathcal{E}\\mathcal{L}$, even when only acyclic ontologies are admitted; and (3) ontologies formulated in a fragment of $\\mathcal{E}\\mathcal{L}$ related to the web ontology language OWL 2 RL can be learned in polynomial time. We also show that neither membership nor equivalence queries alone are sufficient in cases (1) and (3).",
+    "authors": [
+        "Boris Konev",
+        "Carsten Lutz",
+        "Ana Ozaki",
+        "Frank Wolter"
+    ],
+    "id": "16-256",
+    "issue": 201,
+    "pages": [
+        1,
+        63
+    ],
+    "title": "Exact Learning of Lightweight Description Logic Ontologies",
+    "volume": 18,
+    "year": 2018
+}

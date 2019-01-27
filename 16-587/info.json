@@ -1,0 +1,16 @@
+{
+    "abstract": "Large-scale regression problems where both the number of variables, $p$, and the number of observations, $n$, may be large and in the order of millions or more, are becoming increasingly more common. Typically the data are sparse: only a fraction of a percent of the entries in the design matrix are non-zero. Nevertheless, often the only computationally feasible approach is to perform dimension reduction to obtain a new design matrix with far fewer columns and then work with this compressed data. $b$-bit min-wise hashing (Li and K\u00c3\u00b6nig, 2011; Li et al., 2011) is a promising dimension reduction scheme for sparse matrices which produces a set of random features such that regression on the resulting design matrix approximates a kernel regression with the resemblance kernel. In this work, we derive bounds on the prediction error of such regressions. For both linear and logistic models, we show that the average prediction error vanishes asymptotically as long as $q \\|\\boldsymbol{\\beta}^*\\|_2^2 /n \\rightarrow 0$, where $q$ is the average number of non-zero entries in each row of the design matrix and $\\boldsymbol{\\beta}^*$ is the coefficient of the linear predictor. We also show that ordinary least squares or ridge regression applied to the reduced data can in fact allow us fit more flexible models. We obtain non-asymptotic prediction error bounds for interaction models and for models where an unknown row normalisation must be applied in order for the signal to be linear in the predictors.",
+    "authors": [
+        "Rajen D. Shah",
+        "Nicolai Meinshausen"
+    ],
+    "id": "16-587",
+    "issue": 178,
+    "pages": [
+        1,
+        42
+    ],
+    "title": "On $b$-bit Min-wise Hashing for Large-scale Regression and Classification with Sparse Data",
+    "volume": 18,
+    "year": 2018
+}

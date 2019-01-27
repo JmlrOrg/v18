@@ -1,0 +1,18 @@
+{
+    "abstract": "In this paper, we study the minimax estimation of the Bochner integral \\[ \\mu_k(P) := \\int_\\mathcal{X} k(\\cdot,x)\\, dP(x), \\] also called the <em>kernel mean embedding</em>, based on random samples drawn i.i.d. from $P$, where $k:\\mathcal{X}\\times\\mathcal{X}\\rightarrow \\mathbb{R}$ is a positive definite kernel.  Various estimators (including the empirical estimator), $\\hat{\\theta}_n$ of $\\mu_k(P)$ are studied in the literature wherein all of them satisfy $\\|\\hat{\\theta}_n-\\mu_k(P)\\|_{\\mathcal{H}_k}=O_P(n^{-1/2})$ with $\\mathcal{H}_k$ being the reproducing kernel Hilbert space induced by $k$.  The main contribution of the paper is in showing that the above mentioned rate of $n^{-1/2}$ is minimax in $\\|\\cdot\\|_{\\mathcal{H}_k}$ and $\\|\\cdot\\|_{L^2(\\mathbb{R}^d)}$-norms over the class of discrete measures and the class of measures that has an infinitely differentiable density, with $k$ being a continuous translation- invariant kernel on $\\mathbb{R}^d$. The interesting aspect of this result is that the minimax rate is independent of the smoothness of the kernel and the density of $P$ (if it exists).",
+    "authors": [
+        "Ilya Tolstikhin",
+        "Bharath K. Sriperumbudur",
+        "Krikamol Mu",
+        "et"
+    ],
+    "id": "17-032",
+    "issue": 86,
+    "pages": [
+        1,
+        47
+    ],
+    "title": "Minimax Estimation of Kernel Mean Embeddings",
+    "volume": 18,
+    "year": 2017
+}

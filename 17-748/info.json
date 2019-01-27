@@ -1,0 +1,17 @@
+{
+    "abstract": "We introduce a generic scheme for accelerating gradient-based optimization methods in the sense of Nesterov. The approach, called Catalyst, builds upon the inexact accelerated proximal point algorithm for minimizing a convex objective function, and consists of approximately solving a sequence of well-chosen auxiliary problems, leading to faster convergence. One of the keys to achieve acceleration in theory and in practice is to solve these sub-problems with appropriate accuracy by using the right stopping criterion and the right warm-start strategy. We give practical guidelines to use Catalyst and present a comprehensive analysis of its global complexity. We show that Catalyst applies to a large class of algorithms, including gradient descent, block coordinate descent, incremental algorithms such as SAG, SAGA, SDCA, SVRG, MISO/Finito, and their proximal variants. For all of these methods, we establish faster rates using the Catalyst acceleration, for strongly convex and non-strongly convex objectives. We conclude with extensive experiments showing that acceleration is useful in practice, especially for ill-conditioned problems.",
+    "authors": [
+        "Hongzhou Lin",
+        "Julien Mairal",
+        "Zaid Harchaoui"
+    ],
+    "id": "17-748",
+    "issue": 212,
+    "pages": [
+        1,
+        54
+    ],
+    "title": "Catalyst Acceleration for First-order Convex Optimization: from Theory to Practice",
+    "volume": 18,
+    "year": 2018
+}

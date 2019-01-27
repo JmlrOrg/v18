@@ -1,0 +1,16 @@
+{
+    "abstract": " <p>It is usual in machine learning theory to assume that the training and testing sets comprise of draws from the same distribution. This is rarely, if ever, true and one must admit the presence of corruption. There are many different types of corruption that can arise and as of yet there is no general means to compare the relative ease of learning in these settings. Such results are necessary if we are to make informed economic decisions regarding the acquisition of data.</p> <p>Here we begin to develop an abstract framework for tackling these problems. We present a generic method for learning from a fixed, known, <i>reconstructible</i> corruption, along with an analyses of its statistical properties. We demonstrate the utility of our framework via concrete novel results in solving supervised learning problems wherein the labels are corrupted, such as learning with noisy labels, semi-supervised learning and learning with partial labels. </p>",
+    "authors": [
+        "Brendan van Rooyen",
+        "Robert C. Williamson"
+    ],
+    "id": "16-315",
+    "issue": 228,
+    "pages": [
+        1,
+        50
+    ],
+    "title": "A Theory of Learning with Corrupted Labels",
+    "volume": 18,
+    "year": 2018
+}

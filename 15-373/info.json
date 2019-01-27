@@ -1,0 +1,16 @@
+{
+    "abstract": "Supervised manifold learning methods learn data representations by preserving the geometric structure of data while enhancing the separation between data samples from different classes. In this work, we propose a theoretical study of supervised manifold learning for classification. We consider nonlinear dimensionality reduction algorithms that yield linearly separable embeddings of training data and present generalization bounds for this type of algorithms. A necessary condition for satisfactory generalization performance is that the embedding allow the construction of a sufficiently regular interpolation function in relation with the separation margin of the embedding. We show that for supervised embeddings satisfying this condition, the classification error decays at an exponential rate with the number of training samples. Finally, we examine the separability of supervised nonlinear embeddings that aim to preserve the low-dimensional geometric structure of data based on graph representations. The proposed analysis is supported by experiments on several real data sets.",
+    "authors": [
+        "Elif Vural",
+        "Christine Guillemot"
+    ],
+    "id": "15-373",
+    "issue": 157,
+    "pages": [
+        1,
+        55
+    ],
+    "title": "A Study of the Classification of Low-Dimensional Data with Supervised Manifold Learning",
+    "volume": 18,
+    "year": 2018
+}

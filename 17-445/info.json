@@ -1,0 +1,16 @@
+{
+    "abstract": "We propose a method for simultaneously estimating regression coefficients and clustering response variables in a multivariate regression model, to increase prediction accuracy and give insights into the relationship between response variables. The estimates of the regression coefficients and clusters are found by using a penalized likelihood estimator, which includes a cluster fusion penalty, to shrink the difference in fitted values from responses in the same cluster, and an $L_1$ penalty for simultaneous variable selection and estimation. We propose a two-step algorithm, that iterates between k-means clustering and solving the penalized likelihood function assuming the clusters are known, which has desirable parallel computational properties obtained by using the cluster fusion penalty. If the response variable clusters are known <i>a priori</i> then the algorithm reduces to just solving the penalized likelihood problem. Theoretical results are presented for the penalized least squares case, including asymptotic results allowing for $p \\gg n$. We extend our method to the setting where the responses are binomial variables. We propose a coordinate descent algorithm for the normal likelihood and a proximal gradient descent algorithm for the binomial likelihood, which can easily be extended to other generalized linear model (GLM) settings. Simulations and data examples from business operations and genomics are presented to show the merits of both the least squares and binomial methods.",
+    "authors": [
+        "Bradley S. Price",
+        "Ben Sherwood"
+    ],
+    "id": "17-445",
+    "issue": 232,
+    "pages": [
+        1,
+        39
+    ],
+    "title": "A Cluster Elastic Net for Multivariate Regression",
+    "volume": 18,
+    "year": 2018
+}

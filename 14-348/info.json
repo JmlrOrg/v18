@@ -1,0 +1,17 @@
+{
+    "abstract": "Sparsity is an important modeling tool that expands the applicability of convex formulations for data analysis, however it also creates significant challenges for efficient algorithm design. In this paper we investigate the generalized conditional gradient (GCG) algorithm for solving sparse optimization problems--- demonstrating that, with some enhancements, it can provide a more efficient alternative to current state of the art approaches. After studying the convergence properties of GCG for general convex composite problems, we develop efficient methods for evaluating polar operators, a subroutine that is required in each GCG iteration. In particular, we show how the polar operator can be efficiently evaluated in learning low-rank matrices, instantiated with detailed examples on matrix completion and dictionary learning. A further improvement is achieved by interleaving GCG with fixed-rank local subspace optimization. A series of experiments on matrix completion, multi-class classification, and multi-view dictionary learning shows that the proposed method can significantly reduce the training cost of current alternatives.",
+    "authors": [
+        "Yaoliang Yu",
+        "Xinhua Zhang",
+        "Dale Schuurmans"
+    ],
+    "id": "14-348",
+    "issue": 144,
+    "pages": [
+        1,
+        46
+    ],
+    "title": "Generalized Conditional Gradient for Sparse Estimation",
+    "volume": 18,
+    "year": 2017
+}

@@ -1,0 +1,17 @@
+{
+    "abstract": "Many applications, such as human action recognition and object detection, can be formulated as a multiclass classification problem. One-vs-rest (OVR) is one of the most widely used approaches for multiclass classification due to its simplicity and excellent performance. However, many confusing classes in such applications will degrade its results. For example, <em>hand clap</em> and <em>boxing</em> are two confusing actions. <em>Hand clap</em> is easily misclassified as <em>boxing</em>, and vice versa. Therefore, precisely classifying confusing classes remains a challenging task. To obtain better performance for multiclass classifications that have confusing classes, we first develop a classifier chain model for multiclass classification (CCMC) to transfer class information between classifiers. Then, based on an analysis of our proposed model, we propose an easy- to-hard learning paradigm for multiclass classification to automatically identify easy and hard classes and then use the predictions from simpler classes to help solve harder classes. Similar to CCMC, the classifier chain (CC) model is also proposed by Read et al. (2009) to capture the label dependency for multi-label classification. However, CC does not consider the order of difficulty of the labels and achieves degenerated performance when there are many confusing labels. Therefore, it is non- trivial to learn the appropriate label order for CC. Motivated by our analysis for CCMC, we also propose the easy-to-hard learning paradigm for multi-label classification to automatically identify easy and hard labels, and then use the predictions from simpler labels to help solve harder labels. We also demonstrate that our proposed strategy can be successfully applied to a wide range of applications, such as ordinal classification and relationship prediction. Extensive empirical studies validate our analysis and the effectiveness of our proposed easy-to-hard learning strategies.",
+    "authors": [
+        "Weiwei Liu",
+        "Ivor W. Tsang",
+        "Klaus-Robert M\\\"{u}ller"
+    ],
+    "id": "16-212",
+    "issue": 94,
+    "pages": [
+        1,
+        38
+    ],
+    "title": "An Easy-to-hard Learning Paradigm for Multiple Classes and Multiple Labels",
+    "volume": 18,
+    "year": 2017
+}

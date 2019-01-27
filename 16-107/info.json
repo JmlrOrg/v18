@@ -1,0 +1,19 @@
+{
+    "abstract": "Probabilistic modeling is iterative. A scientist posits a simple model, fits it to her data, refines it according to her analysis, and repeats. However, fitting complex models to large data is a bottleneck in this process. Deriving algorithms for new models can be both mathematically and computationally challenging, which makes it difficult to efficiently cycle through the steps. To this end, we develop ADVI. Using our method, the scientist only provides a probabilistic model and a dataset, nothing else. ADVI automatically derives an efficient variational inference algorithm, freeing the scientist to refine and explore many models. ADVI supports a broad class of models ---no conjugacy assumptions are required. We study ADVI across ten modern probabilistic models and apply it to a dataset with millions of observations. We deploy ADVI as part of Stan, a probabilistic programming system.",
+    "authors": [
+        "Alp Kucukelbir",
+        "Dustin Tran",
+        "Rajesh Ranganath",
+        "Andrew Gelman",
+        "David M. Blei"
+    ],
+    "id": "16-107",
+    "issue": 14,
+    "pages": [
+        1,
+        45
+    ],
+    "title": "Automatic Differentiation Variational Inference",
+    "volume": 18,
+    "year": 2017
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Latent Dirichlet Allocation (LDA) is a well known topic model that is often used to make inference regarding the properties of collections of text documents. LDA is a hierarchical Bayesian model, and involves a prior distribution on a set of latent topic variables. The prior is indexed by certain hyperparameters, and even though these have a large impact on inference, they are usually chosen either in an ad-hoc manner, or by applying an algorithm whose theoretical basis has not been firmly established. We present a method, based on a combination of Markov chain Monte Carlo and importance sampling, for estimating the maximum likelihood estimate of the hyperparameters. The method may be viewed as a computational scheme for implementation of an empirical Bayes analysis. It comes with theoretical guarantees, and a key feature of our approach is that we provide theoretically-valid error margins for our estimates. Experiments on both synthetic and real data show good performance of our methodology.",
+    "authors": [
+        "Clint P. George",
+        "Hani Doss"
+    ],
+    "id": "15-595",
+    "issue": 162,
+    "pages": [
+        1,
+        38
+    ],
+    "title": "Principled Selection of Hyperparameters in the Latent Dirichlet Allocation Model",
+    "volume": 18,
+    "year": 2018
+}

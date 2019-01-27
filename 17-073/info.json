@@ -1,0 +1,17 @@
+{
+    "abstract": "Missing data is a common problem in real-world settings and for this reason has attracted significant attention in the statistical literature. We propose a flexible framework based on formal optimization to impute missing data with mixed continuous and categorical variables. This framework can readily incorporate various predictive models including $K$-nearest neighbors, support vector machines, and decision tree based methods, and can be adapted for multiple imputation. We derive fast first-order methods that obtain high quality solutions in seconds following a general imputation algorithm opt.impute presented in this paper. We demonstrate that our proposed method improves out-of-sample accuracy in large-scale computational experiments across a sample of 84 data sets taken from the UCI Machine Learning Repository. In all scenarios of missing at random mechanisms and various missing percentages, opt.impute produces the best overall imputation in most data sets benchmarked against five other methods: mean impute, $K$-nearest neighbors, iterative knn, Bayesian PCA, and predictive-mean matching, with an average reduction in mean absolute error of 8.3$\\%$ against the best cross-validated benchmark method. Moreover, opt.impute leads to improved out-of-sample performance of learning algorithms trained using the imputed data, demonstrated by computational experiments on 10 downstream tasks. For models trained using opt.impute single imputations with 50$\\%$ data missing, the average out-of- sample $R^2$ is 0.339 in the regression tasks and the average out-of-sample accuracy is 86.1$\\%$ in the classification tasks, compared to 0.315 and 84.4$\\%$ for the best cross-validated benchmark method. In the multiple imputation setting, downstream models trained using opt.impute obtain a statistically significant improvement over models trained using multivariate imputation by chained equations (mice) in 8/10 missing data scenarios considered.",
+    "authors": [
+        "Dimitris Bertsimas",
+        "Colin Pawlowski",
+        "Ying Daisy Zhuo"
+    ],
+    "id": "17-073",
+    "issue": 196,
+    "pages": [
+        1,
+        39
+    ],
+    "title": "From Predictive Methods to Missing Data Imputation: An Optimization Approach",
+    "volume": 18,
+    "year": 2018
+}

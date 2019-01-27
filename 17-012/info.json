@@ -1,0 +1,16 @@
+{
+    "abstract": "The paper considers suprema of empirical processes for linear time series indexed by functional classes. We derive an upper bound for the tail probability of the suprema under conditions on the size of the function class, the sample size, temporal dependence and the moment conditions of the underlying time series. Due to the dependence and heavy-tailness, our tail probability bound is substantially different from those classical exponential bounds obtained under the independence assumption in that it involves an extra polynomial decaying term. We allow both short- and long-range dependent processes. For empirical processes indexed by half intervals, our tail probability inequality is sharp up to a multiplicative constant.",
+    "authors": [
+        "Likai Chen",
+        "Wei Biao Wu"
+    ],
+    "id": "17-012",
+    "issue": 231,
+    "pages": [
+        1,
+        46
+    ],
+    "title": "Concentration inequalities for empirical processes of linear time series",
+    "volume": 18,
+    "year": 2018
+}

@@ -1,0 +1,20 @@
+{
+    "abstract": "We present a machine learning algorithm for building classifiers that are comprised of a <em>small</em> number of <em>short</em> rules. These are restricted disjunctive normal form models. An example of a classifier of this form is as follows: <em>If</em> $X$ satisfies (condition $A$ AND condition $B$) OR (condition $C$) OR $\\cdots$, <em>then</em> $Y=1$. Models of this form have the advantage of being interpretable to human experts since they produce a set of rules that concisely describe a specific class. We present two probabilistic models with prior parameters that the user can set to encourage the model to have a desired size and shape, to conform with a domain-specific definition of interpretability. We provide a scalable MAP inference approach and develop theoretical bounds to reduce computation by iteratively pruning the search space. We apply our method (Bayesian Rule Sets -- <em>BRS</em>) to characterize and predict user behavior with respect to in-vehicle context-aware personalized recommender systems. Our method has a major advantage over classical associative classification methods and decision trees in that it does not greedily grow the model.",
+    "authors": [
+        "Tong Wang",
+        "Cynthia Rudin",
+        "Finale Doshi-Velez",
+        "Yimin Liu",
+        "Erica Klampfl",
+        "Perry MacNeille"
+    ],
+    "id": "16-003",
+    "issue": 70,
+    "pages": [
+        1,
+        37
+    ],
+    "title": "A Bayesian Framework for Learning Rule Sets for Interpretable Classification",
+    "volume": 18,
+    "year": 2017
+}

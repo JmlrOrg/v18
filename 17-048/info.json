@@ -1,0 +1,15 @@
+{
+    "abstract": "We introduce Fisher consistency in the sense of unbiasedness as a desirable property for estimators of class prior probabilities. Lack of Fisher consistency could be used as a criterion to dismiss estimators that are unlikely to deliver precise estimates in test data sets under prior probability and more general data set shift. The usefulness of this unbiasedness concept is demonstrated with three examples of classifiers used for quantification: Adjusted Count, EM-algorithm and CDE- Iterate. We find that Adjusted Count and EM-algorithm are Fisher consistent. A counter-example shows that CDE-Iterate is not Fisher consistent and, therefore, cannot be trusted to deliver reliable estimates of class probabilities.",
+    "authors": [
+        "Dirk Tasche"
+    ],
+    "id": "17-048",
+    "issue": 95,
+    "pages": [
+        1,
+        32
+    ],
+    "title": "Fisher Consistency for Prior Probability Shift",
+    "volume": 18,
+    "year": 2017
+}

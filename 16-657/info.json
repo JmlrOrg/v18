@@ -1,0 +1,16 @@
+{
+    "abstract": "This paper presents NP-hardness and hardness of approximation results for maximum likelihood estimation of mixtures of spherical Gaussians.",
+    "authors": [
+        "Christopher Tosh",
+        "Sanjoy Dasgupta"
+    ],
+    "id": "16-657",
+    "issue": 175,
+    "pages": [
+        1,
+        11
+    ],
+    "title": "Maximum Likelihood Estimation for Mixtures of Spherical Gaussians is NP-hard",
+    "volume": 18,
+    "year": 2018
+}

@@ -1,0 +1,18 @@
+{
+    "abstract": " <p>We present a canonical way to turn any smooth parametric family of probability distributions on an arbitrary search space $X$ into a continuous-time black-box optimization method on $X$, the <em>information-geometric optimization</em> (IGO) method. Invariance as a major design principle keeps the number of arbitrary choices to a minimum. The resulting <em>IGO flow</em> is the flow of an ordinary differential equation conducting the natural gradient ascent of an adaptive, time-dependent transformation of the objective function. It makes no particular assumptions on the objective function to be optimized.</p> <p>The IGO method produces explicit IGO algorithms through time discretization. It naturally recovers versions of known algorithms and offers a systematic way to derive new ones. In continuous search spaces, IGO algorithms take a form related to natural evolution strategies (NES). The cross-entropy method is recovered in a particular case with a large time step, and can be extended into a smoothed, parametrization-independent maximum likelihood update (IGO-ML). When applied to the family of Gaussian distributions on $\\R^d$, the IGO framework recovers a version of the well-known CMA-ES algorithm and of xNES. For the family of Bernoulli distributions on $\\{0,1\\}^d$, we recover the seminal PBIL algorithm and cGA. For the distributions of restricted Boltzmann machines, we naturally obtain a novel algorithm for discrete optimization on $\\{0,1\\}^d$. All these algorithms are natural instances of, and unified under, the single information-geometric optimization framework.</p> <p>The IGO method achieves, thanks to its intrinsic formulation, maximal invariance properties: invariance under reparametrization of the search space $X$, under a change of parameters of the probability distribution, and under increasing transformation of the function to be optimized. The latter is achieved through an adaptive, quantile-based formulation of the objective. Theoretical considerations strongly suggest that IGO algorithms are essentially characterized by a minimal change of the distribution over time. Therefore they have minimal loss in diversity through the course of optimization, provided the initial diversity is high. First experiments using restricted Boltzmann machines confirm this insight. As a simple consequence, IGO seems to provide, from information theory, an elegant way to simultaneously explore several valleys of a fitness landscape in a single run.</p>",
+    "authors": [
+        "Yann Ollivier",
+        "Ludovic Arnold",
+        "Anne Auger",
+        "Nikolaus Hansen"
+    ],
+    "id": "14-467",
+    "issue": 18,
+    "pages": [
+        1,
+        65
+    ],
+    "title": "Information-Geometric Optimization Algorithms: A Unifying Picture via Invariance Principles",
+    "volume": 18,
+    "year": 2017
+}

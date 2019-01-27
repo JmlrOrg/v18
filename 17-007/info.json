@@ -1,0 +1,16 @@
+{
+    "abstract": " <p>We consider the effect of introducing a curriculum of targets when training Boolean models on supervised Multi Label Classification (MLC) problems. In particular, we consider how to order targets in the absence of prior knowledge, and how such a curriculum may be enforced when using meta-heuristics to train discrete non-linear models.</p> <p>We show that hierarchical dependencies between targets can be exploited by enforcing an appropriate curriculum using hierarchical loss functions. On several multi-output circuit- inference problems with known target difficulties, Feedforward Boolean Networks (FBNs) trained with such a loss function achieve significantly lower out-of- sample error, up to $10\\%$ in some cases. This improvement increases as the loss places more emphasis on target order and is strongly correlated with an easy-to-hard curricula. We also demonstrate the same improvements on three real-world models and two Gene Regulatory Network (GRN) inference problems.</p> <p>We posit a simple a-priori method for identifying an appropriate target order and estimating the strength of target relationships in Boolean Boolean MLCs. These methods use <em>intrinsic dimension</em> as a proxy for target difficulty, which is estimated using optimal solutions to a combinatorial optimisation problem known as the Minimum-Feature-Set (minFS) problem. We also demonstrate that the same generalisation gains can be achieved without providing any knowledge of target difficulty.</p>",
+    "authors": [
+        "Shannon Fenn",
+        "Pablo Moscato"
+    ],
+    "id": "17-007",
+    "issue": 114,
+    "pages": [
+        1,
+        26
+    ],
+    "title": "Target Curricula via Selection of Minimum Feature Sets: a Case Study in Boolean Networks",
+    "volume": 18,
+    "year": 2017
+}

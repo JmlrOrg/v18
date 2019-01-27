@@ -1,0 +1,18 @@
+{
+    "abstract": "We consider joint estimation of multiple graphical models arising from heterogeneous and high-dimensional observations. Unlike most previous approaches which assume that the cluster structure is given in advance, an appealing feature of our method is to learn cluster structure while estimating heterogeneous graphical models. This is achieved via a high dimensional version of Expectation Conditional Maximization (ECM) algorithm  (Meng and Rubin,  1993). A joint graphical lasso penalty is imposed on the conditional maximization step to extract both homogeneity and heterogeneity components across all clusters. Our algorithm is computationally efficient due to fast sparse learning routines and can be implemented without unsupervised learning knowledge. The superior performance of our method is demonstrated by extensive experiments and its application to a Glioblastoma cancer dataset reveals some new insights in understanding the Glioblastoma cancer. In theory, a non-asymptotic error bound is established for the output directly from our high dimensional ECM algorithm, and it consists of two quantities: statistical error (statistical accuracy) and optimization error (computational complexity). Such a result gives a theoretical guideline in terminating our ECM iterations.",
+    "authors": [
+        "Botao Hao",
+        "Will Wei Sun",
+        "Yufeng Liu",
+        "Guang Cheng"
+    ],
+    "id": "17-019",
+    "issue": 217,
+    "pages": [
+        1,
+        58
+    ],
+    "title": "Simultaneous Clustering and Estimation of Heterogeneous Graphical Models",
+    "volume": 18,
+    "year": 2018
+}

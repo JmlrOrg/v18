@@ -1,0 +1,18 @@
+{
+    "abstract": "In many applications, not all the features used to represent data samples are important. Often only a few features are relevant for the prediction task. The choice of dependence measures often affect the final result of many feature selection methods. To select features that have complex nonlinear relationships with the response variable, the dependence measure should be <em>equitable</em>, a concept proposed by Reshef et al. (2011); that is, the dependence measure treats linear and nonlinear relationships equally. Recently, Kinney and Atwal (2014) gave a mathematical definition of <em>self- equitability</em>. In this paper, we introduce a new concept of <em>robust-equitability</em> and identify a robust- equitable copula dependence measure, the <em>robust copula dependence</em> (RCD) measure. RCD is based on the $L_1$-distance of the copula density from uniform and we show that it is equitable under both equitability definitions. We also prove theoretically that RCD is much easier to estimate than mutual information. Because of these theoretical properties, the RCD measure has the following advantages compared to existing dependence measures: it is robust to different relationship forms and robust to unequal sample sizes of different features. Experiments on both synthetic and real-world data sets confirm the theoretical analysis, and illustrate the advantage of using the dependence measure RCD for feature selection.",
+    "authors": [
+        "A. Adam Ding",
+        "Jennifer G. Dy",
+        "Yi Li",
+        "Yale Chang"
+    ],
+    "id": "16-079",
+    "issue": 71,
+    "pages": [
+        1,
+        46
+    ],
+    "title": "A Robust-Equitable Measure for Feature Ranking and Selection",
+    "volume": 18,
+    "year": 2017
+}

@@ -1,0 +1,18 @@
+{
+    "abstract": "This work brings together two powerful concepts in Gaussian processes: the variational approach to sparse approximation and the spectral representation of Gaussian processes. This gives rise to an approximation that inherits the benefits of the variational approach but with the representational power and computational scalability of spectral representations. The work hinges on a key result that there exist spectral features related to a finite domain of the Gaussian process which exhibit almost-independent covariances. We derive these expressions for Mat\u00e9rn kernels in one dimension, and generalize to more dimensions using kernels with specific structures. Under the assumption of additive Gaussian noise, our method requires only a single pass through the data set, making for very fast and accurate computation. We fit a model to 4 million training points in just a few minutes on a standard laptop. With non- conjugate likelihoods, our MCMC scheme reduces the cost of computation from $\\mathcal{O}(NM^2)$ (for a sparse Gaussian process) to $\\mathcal{O}(NM)$ per iteration, where $N$ is the number of data and $M$ is the number of features.",
+    "authors": [
+        "James Hensman",
+        "Nicolas Durr",
+        "e",
+        "Arno Solin"
+    ],
+    "id": "16-579",
+    "issue": 151,
+    "pages": [
+        1,
+        52
+    ],
+    "title": "Variational Fourier Features for Gaussian Processes",
+    "volume": 18,
+    "year": 2018
+}

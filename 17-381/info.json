@@ -1,0 +1,19 @@
+{
+    "abstract": "This paper introduces tick, is a statistical learning library for Python 3, with a particular emphasis on time-dependent models, such as point processes, tools for generalized linear models and survival analysis. The core of the library provides model computational classes, solvers and proximal operators for regularization. It relies on a C++ implementation and state- of-the-art optimization algorithms to provide very fast computations in a single node multi-core setting. Source code and documentation can be downloaded from <a href=\"https://github.com/X-DataInitiative/tick\">https://github.com/X-DataInitiative/tick</a>.",
+    "authors": [
+        "Emmanuel Bacry",
+        "Martin Bompaire",
+        "Philip Deegan",
+        "St{\\'e}phane Ga\\\"{\\i}ffas",
+        "S{{\\o}}ren V. Poulsen"
+    ],
+    "id": "17-381",
+    "issue": 214,
+    "pages": [
+        1,
+        5
+    ],
+    "title": "tick: a Python Library for Statistical Learning, with an emphasis on Hawkes Processes and Time-Dependent Models",
+    "volume": 18,
+    "year": 2018
+}

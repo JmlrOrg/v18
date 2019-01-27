@@ -1,0 +1,16 @@
+{
+    "abstract": "We consider data in the form of pairwise comparisons of $n$ items, with the goal of identifying the top $k$ items for some value of $k &lt; n$, or alternatively, recovering a ranking of all the items. We analyze the Borda counting algorithm that ranks the items in order of the number of pairwise comparisons won, and show it has three attractive features: (a) it is an optimal method achieving the information-theoretic limits up to constant factors; (b) it is robust in that its optimality holds without imposing conditions on the underlying matrix of pairwise-comparison probabilities, in contrast to some prior work that applies only to the BTL parametric model; and (c) its computational efficiency leads to speed-ups of several orders of magnitude. We address the problem of exact recovery, and for the top-$k$ recovery problem we also extend our results to obtain sharp guarantees for approximate recovery under the Hamming distortion metric, and more generally, to any arbitrary error requirement that satisfies a simple and natural monotonicity condition. In doing so, we introduce a general framework that allows us to treat a variety of problems in the literature in an unified manner.",
+    "authors": [
+        "Nihar B. Shah",
+        "Martin J. Wainwright"
+    ],
+    "id": "16-206",
+    "issue": 199,
+    "pages": [
+        1,
+        38
+    ],
+    "title": "Simple, Robust and Optimal Ranking from Pairwise Comparisons",
+    "volume": 18,
+    "year": 2018
+}

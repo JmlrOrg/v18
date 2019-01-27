@@ -1,0 +1,17 @@
+{
+    "abstract": "Information about intrinsic dimension is crucial to perform dimensionality reduction, compress information, design efficient algorithms, and do statistical adaptation. In this paper we propose an estimator for the intrinsic dimension of a data set. The estimator is based on binary neighbourhood information about the observations in the form of two adjacency matrices, and does not require any explicit distance information. The underlying graph is modelled according to a subset of a specific random connection model, sometimes referred to as the Poisson blob model. Computationally the estimator scales like $n\\log n$, and we specify its asymptotic distribution and rate of convergence. A simulation study on both real and simulated data shows that our approach compares favourably with some competing methods from the literature, including approaches that rely on distance information.",
+    "authors": [
+        "Paulo Serra",
+        "Michel M",
+        "jes"
+    ],
+    "id": "16-232",
+    "issue": 138,
+    "pages": [
+        1,
+        35
+    ],
+    "title": "Dimension Estimation Using Random Connection Models",
+    "volume": 18,
+    "year": 2017
+}

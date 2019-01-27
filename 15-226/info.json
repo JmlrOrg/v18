@@ -1,0 +1,18 @@
+{
+    "abstract": "We study binary classification in the presence of \\emph{class- conditional} random noise, where the learner gets to see labels that are flipped independently with some probability, and where the flip probability depends on the class. Our goal is to devise learning algorithms that are efficient and statistically consistent with respect to commonly used utility measures. In particular, we look at a family of measures motivated by their application in domains where cost-sensitive learning is necessary (for example, when there is class imbalance). In contrast to most of the existing literature on consistent classification that are limited to the classical 0-1 loss, our analysis includes more general utility measures such as the AM measure (arithmetic mean of True Positive Rate and True Negative Rate). For this problem of cost-sensitive learning under class- conditional random noise, we develop two approaches that are based on suitably modifying surrogate losses. First, we provide a simple unbiased estimator of any loss, and obtain performance bounds for empirical utility maximization in the presence of i.i.d. data with noisy labels. If the loss function satisfies a simple symmetry condition, we show that using unbiased estimator leads to an efficient algorithm for empirical maximization. Second, by leveraging a reduction of risk minimization under noisy labels to classification with weighted 0-1 loss, we suggest the use of a simple weighted surrogate loss, for which we are able to obtain strong utility bounds. This approach implies that methods already used in practice, such as biased SVM and weighted logistic regression, are provably noise- tolerant. For two practically important measures in our family, we show that the proposed methods are competitive with respect to recently proposed methods for dealing with label noise in several benchmark data sets.",
+    "authors": [
+        "Nagarajan Natarajan",
+        "Inderjit S. Dhillon",
+        "Pradeep Ravikumar",
+        "Ambuj Tewari"
+    ],
+    "id": "15-226",
+    "issue": 155,
+    "pages": [
+        1,
+        33
+    ],
+    "title": "Cost-Sensitive Learning with Noisy Labels",
+    "volume": 18,
+    "year": 2018
+}

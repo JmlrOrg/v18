@@ -1,0 +1,17 @@
+{
+    "abstract": "This paper addresses how well we can recover a data matrix when only given a few of its elements. We present a randomized algorithm that element-wise sparsifies the data, retaining only a few of its entries. Our new algorithm independently samples the data using probabilities that depend on both squares ($\\ell_2$ sampling) and absolute values ($\\ell_1$ sampling) of the entries. We prove that this hybrid algorithm ($i$) achieves a near-PCA reconstruction of the data, and ($ii$) recovers sparse principal components of the data, from a sketch formed by a sublinear sample size. Hybrid-($\\ell_1,\\ell_2$) inherits the $\\ell_2$-ability to sample the important elements, as well as the regularization properties of $\\ell_1$ sampling, and maintains strictly better quality than either $\\ell_1$ or $\\ell_2$ on their own. Extensive experimental results on synthetic, image, text, biological, and financial data show that not only are we able to recover PCA and sparse PCA from incomplete data, but we can speed up such computations significantly using our sparse sketch .",
+    "authors": [
+        "Abhisek Kundu",
+        "Petros Drineas",
+        "Malik Magdon-Ismail"
+    ],
+    "id": "16-258",
+    "issue": 75,
+    "pages": [
+        1,
+        34
+    ],
+    "title": "Recovering PCA and Sparse PCA via Hybrid-(l1,l2) Sparse Sampling of Data Elements",
+    "volume": 18,
+    "year": 2017
+}

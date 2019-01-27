@@ -1,0 +1,19 @@
+{
+    "abstract": "This paper considers inference over distributed linear Gaussian models using factor graphs and Gaussian belief propagation (BP). The distributed inference algorithm involves only local computation of the information matrix and of the mean vector, and message passing between neighbors. Under broad conditions, it is shown that the message information matrix converges to a unique positive definite limit matrix for arbitrary positive semidefinite initialization, and it approaches an arbitrarily small neighborhood of this limit matrix at an exponential rate. A necessary and sufficient convergence condition for the belief mean vector to converge to the optimal centralized estimator is provided under the assumption that the message information matrix is initialized as a positive semidefinite matrix. Further, it is shown that Gaussian BP always converges when the underlying factor graph is given by the union of a forest and a single loop. The proposed convergence condition in the setup of distributed linear Gaussian models is shown to be strictly weaker than other existing convergence conditions and requirements, including the Gaussian Markov random field based walk-summability condition, and applicable to a large class of scenarios.",
+    "authors": [
+        "Jian Du",
+        "Shaodan Ma",
+        "Yik-Chung Wu",
+        "Soummya Kar",
+        "Jos\\'{e} M. F. Moura"
+    ],
+    "id": "16-556",
+    "issue": 172,
+    "pages": [
+        1,
+        38
+    ],
+    "title": "Convergence Analysis of Distributed Inference with Vector-Valued Gaussian Belief Propagation",
+    "volume": 18,
+    "year": 2018
+}

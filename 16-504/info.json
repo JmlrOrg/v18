@@ -1,0 +1,17 @@
+{
+    "abstract": "We consider the stochastic nested composition optimization problem where the objective is a composition of two expected- value functions. We propose a new stochastic first-order method, namely the accelerated stochastic compositional proximal gradient (ASC-PG) method. This algorithm updates the solution based on noisy gradient queries using a two-timescale iteration. The ASC-PG is the first proximal gradient method for the stochastic composition problem that can deal with nonsmooth regularization penalty. We show that the ASC-PG exhibits faster convergence than the best known algorithms, and that it achieves the optimal sample-error complexity in several important special cases. We demonstrate the application of ASC-PG to reinforcement learning and conduct numerical experiments.",
+    "authors": [
+        "Mengdi Wang",
+        "Ji Liu",
+        "Ethan X. Fang"
+    ],
+    "id": "16-504",
+    "issue": 105,
+    "pages": [
+        1,
+        23
+    ],
+    "title": "Accelerating Stochastic Composition Optimization",
+    "volume": 18,
+    "year": 2017
+}

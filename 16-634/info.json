@@ -1,0 +1,18 @@
+{
+    "abstract": "Reinforcement learning (RL) techniques optimize the accumulated long-term reward of a suitably chosen reward function. However, designing such a reward function often requires a lot of task- specific prior knowledge. The designer needs to consider different objectives that do not only influence the learned behavior but also the learning progress. To alleviate these issues, preference-based reinforcement learning algorithms (PbRL) have been proposed that can directly learn from an expert's preferences instead of a hand-designed numeric reward. PbRL has gained traction in recent years due to its ability to resolve the reward shaping problem, its ability to learn from non numeric rewards and the possibility to reduce the dependence on expert knowledge. We provide a unified framework for PbRL that describes the task formally and points out the different design principles that affect the evaluation task for the human as well as the computational complexity. The design principles include the type of feedback that is assumed, the representation that is learned to capture the preferences, the optimization problem that has to be solved as well as how the exploration/exploitation problem is tackled. Furthermore, we point out shortcomings of current algorithms, propose open research questions and briefly survey practical tasks that have been solved using PbRL.",
+    "authors": [
+        "Christian Wirth",
+        "Riad Akrour",
+        "Gerhard Neumann",
+        "Johannes F{{{\\\"u}}}rnkranz"
+    ],
+    "id": "16-634",
+    "issue": 136,
+    "pages": [
+        1,
+        46
+    ],
+    "title": "A Survey of Preference-Based Reinforcement Learning Methods",
+    "volume": 18,
+    "year": 2017
+}

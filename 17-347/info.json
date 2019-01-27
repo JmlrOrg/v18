@@ -1,0 +1,16 @@
+{
+    "abstract": "A popular approach for solving stochastic optimization problems is the stochastic gradient descent (SGD) method. Although the SGD iteration is computationally cheap and its practical performance may be satisfactory under certain circumstances, there is recent evidence of its convergence difficulties and instability for unappropriate choice of parameters. To avoid some of the drawbacks of SGD, stochastic proximal point (SPP) algorithms have been recently considered. We introduce a new variant of the SPP method for solving stochastic convex problems subject to (in)finite intersection of constraints satisfying a linear regularity condition. For the newly introduced SPP scheme we prove new nonasymptotic convergence results. In particular, for convex Lipschitz continuous objective functions, we prove nonasymptotic convergence rates in terms of the expected value function gap of order $\\mathcal{O}\\left(\\frac{1}{k^{1/2}}\\right)$, where $k$ is the iteration counter. We also derive better nonasymptotic convergence rates in terms of expected quadratic distance from the iterates to the optimal solution for smooth strongly convex objective functions, which in the best case is of order $\\mathcal{O}\\left(\\frac{1}{k}\\right)$. Since these convergence rates can be attained by our SPP algorithm only under some natural restrictions on the stepsize, we also introduce a restarting variant of SPP that overcomes these difficulties and derive the corresponding nonasymptotic convergence rates. Numerical evidence supports the effectiveness of our methods in real problems.",
+    "authors": [
+        "Andrei Patrascu",
+        "Ion Necoara"
+    ],
+    "id": "17-347",
+    "issue": 198,
+    "pages": [
+        1,
+        42
+    ],
+    "title": "Nonasymptotic convergence of stochastic proximal point methods for constrained convex optimization",
+    "volume": 18,
+    "year": 2018
+}

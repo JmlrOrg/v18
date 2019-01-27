@@ -1,0 +1,16 @@
+{
+    "abstract": "We introduce openXBOW, an open-source toolkit for the generation of bag-of-words (BoW) representations from multimodal input. In the BoW principle, word histograms were first used as features in document classification, but the idea was and can easily be adapted to, e.g., acoustic or visual descriptors, introducing a prior step of vector quantisation. The openXBOW toolkit supports arbitrary numeric input features and text input and concatenates computed sub-bags to a final bag. It provides a variety of extensions and options. To our knowledge, openXBOW is the first publicly available toolkit for the generation of crossmodal bags-of-words. The capabilities of the tool have been exemplified in different scenarios: sentiment analysis in tweets, classification of snore sounds, and time-dependent emotion recognition based on acoustic, linguistic, and visual information, where improved results over other feature representations were observed.",
+    "authors": [
+        "Maximilian Schmitt",
+        "Bj{{\\\"o}}rn Schuller"
+    ],
+    "id": "17-113",
+    "issue": 96,
+    "pages": [
+        1,
+        5
+    ],
+    "title": "openXBOW -- Introducing the Passau Open-Source Crossmodal Bag-of-Words Toolkit",
+    "volume": 18,
+    "year": 2017
+}

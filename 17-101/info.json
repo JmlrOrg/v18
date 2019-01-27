@@ -1,0 +1,16 @@
+{
+    "abstract": "We consider the submodular function minimization (SFM) and the quadratic minimization problems regularized by the Lovasz extension of the submodular function. These optimization problems are intimately related; for example, min-cut problems and total variation denoising problems, where the cut function is submodular and its Lovasz extension is given by the associated total variation. When a quadratic loss is regularized by the total variation of a cut function, it thus becomes a total variation denoising problem and we use the same terminology in this paper for <q>general</q> submodular functions. We propose a new active-set algorithm for total variation denoising with the assumption of an oracle that solves the corresponding SFM problem. This can be seen as local descent algorithm over ordered partitions with explicit convergence guarantees. It is more flexible than the existing algorithms with the ability for warm-restarts using the solution of a closely related problem. Further, we also consider the case when a submodular function can be decomposed into the sum of two submodular functions $F_1$ and $F_2$ and assume SFM oracles for these two functions. We propose a new active-set algorithm for total variation denoising (and hence SFM by thresholding the solution at zero). This algorithm also performs local descent over ordered partitions and its ability to warm start considerably improves the performance of the algorithm. In the experiments, we compare the performance of the proposed algorithms with state-of-the-art algorithms, showing that it reduces the calls to SFM oracles.",
+    "authors": [
+        "K. S. Sesh Kumar",
+        "Francis Bach"
+    ],
+    "id": "17-101",
+    "issue": 132,
+    "pages": [
+        1,
+        31
+    ],
+    "title": "Active-set Methods for Submodular Minimization Problems",
+    "volume": 18,
+    "year": 2017
+}

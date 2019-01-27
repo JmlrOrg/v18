@@ -1,0 +1,18 @@
+{
+    "abstract": "We present a graphical criterion for covariate adjustment that is sound and complete for four different classes of causal graphical models: directed acyclic graphs (DAGs), maximal ancestral graphs (MAGs), completed partially directed acyclic graphs (CPDAGs), and partial ancestral graphs (PAGs). Our criterion unifies covariate adjustment for a large set of graph classes. Moreover, we define an explicit set that satisfies our criterion, if there is any set that satisfies our criterion. We also give efficient algorithms for constructing all sets that fulfill our criterion, implemented in the <code>R</code> package <code>dagitty</code>. Finally, we discuss the relationship between our criterion and other criteria for adjustment, and we provide new soundness and completeness proofs for the adjustment criterion for DAGs.",
+    "authors": [
+        "Emilija Perkovi\\'c",
+        "Johannes Textor",
+        "Markus Kalisch",
+        "Marloes H. Maathuis"
+    ],
+    "id": "16-319",
+    "issue": 220,
+    "pages": [
+        1,
+        62
+    ],
+    "title": "Complete Graphical Characterization and Construction of Adjustment Sets in Markov Equivalence Classes of Ancestral Graphs",
+    "volume": 18,
+    "year": 2018
+}

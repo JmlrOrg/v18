@@ -1,0 +1,19 @@
+{
+    "abstract": "Differential privacy formalises privacy-preserving mechanisms that provide access to a database. Can Bayesian inference be used directly to provide private access to data? The answer is yes: under certain conditions on the prior, sampling from the posterior distribution can lead to a desired level of privacy and utility. For a uniform treatment, we define differential privacy over arbitrary data set metrics, outcome spaces and distribution families. This allows us to also deal with non-i.i.d or non-tabular data sets. We then prove bounds on the sensitivity of the posterior to the data, which delivers a measure of robustness. We also show how to use posterior sampling to provide differentially private responses to queries, within a decision-theoretic framework. Finally, we provide bounds on the utility of answers to queries and on the ability of an adversary to distinguish between data sets. The latter are complemented by a novel use of Le Cam's method to obtain lower bounds on distinguishability. Our results hold for arbitrary metrics, including those for the common definition of differential privacy. For specific choices of the metric, we give a number of examples satisfying our assumptions.",
+    "authors": [
+        "Christos Dimitrakakis",
+        "Blaine Nelson",
+        "Zuhe Zhang",
+        "Aikaterini Mitrokotsa",
+        "Benjamin I. P. Rubinstein"
+    ],
+    "id": "15-257",
+    "issue": 11,
+    "pages": [
+        1,
+        39
+    ],
+    "title": "Differential Privacy for Bayesian Inference through Posterior Sampling",
+    "volume": 18,
+    "year": 2017
+}

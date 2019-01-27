@@ -1,0 +1,16 @@
+{
+    "abstract": "In this article, we propose and study the performance of spectral community detection for a family of \u00e2\u0080\u009c$\\alpha$-normalized\u00e2\u0080\u009d adjacency matrices $\\bf A$, of the type $ {\\bf D}^{-\\alpha}{\\bf A}{\\bf D}^{-\\alpha}$ with $\\bf D$ the degree matrix, in heterogeneous dense graph models. We show that the previously used normalization methods based on ${\\bf A}$ or $ {\\bf D}^{-1}{\\bf A}{\\bf D}^{-1} $ are in general suboptimal in terms of correct recovery rates and, relying on advanced random matrix methods, we prove instead the existence of an optimal value $ \\alpha_{\\rm opt} $ of the parameter $ \\alpha $ in our generic model; we further provide an online estimation of $ \\alpha_{\\rm opt} $ only based on the node degrees in the graph. Numerical simulations show that the proposed method outperforms state-of-the-art spectral approaches on moderately dense to dense heterogeneous graphs.",
+    "authors": [
+        "Hafiz TIOMOKO ALI",
+        "Romain COUILLET"
+    ],
+    "id": "17-247",
+    "issue": 225,
+    "pages": [
+        1,
+        49
+    ],
+    "title": "Improved spectral community detection in large heterogeneous networks",
+    "volume": 18,
+    "year": 2018
+}

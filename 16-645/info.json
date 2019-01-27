@@ -1,0 +1,18 @@
+{
+    "abstract": "Multilayer networks are a useful way to capture and model multiple, binary or weighted relationships among a fixed group of objects. While community detection has proven to be a useful exploratory technique for the analysis of single-layer networks, the development of community detection methods for multilayer networks is still in its infancy. We propose and investigate a procedure, called Multilayer Extraction, that identifies densely connected vertex-layer sets in multilayer networks. Multilayer Extraction makes use of a significance based score that quantifies the connectivity of an observed vertex-layer set through comparison with a fixed degree random graph model. Multilayer Extraction directly handles networks with heterogeneous layers where community structure may be different from layer to layer. The procedure can capture overlapping communities, as well as background vertex-layer pairs that do not belong to any community. We establish consistency of the vertex-layer set optimizer of our proposed multilayer score under the multilayer stochastic block model. We investigate the performance of Multilayer Extraction on three applications and a test bed of simulations. Our theoretical and numerical evaluations suggest that Multilayer Extraction is an effective exploratory tool for analyzing complex multilayer networks. Publicly available code is available at <a href=\"https://github. com/jdwilson4/MultilayerExtraction\">github.com/jdwilson4/Multila yerExtraction</a>.",
+    "authors": [
+        "James D. Wilson",
+        "John Palowitch",
+        "Shankar Bhamidi",
+        "Andrew B. Nobel"
+    ],
+    "id": "16-645",
+    "issue": 149,
+    "pages": [
+        1,
+        49
+    ],
+    "title": "Community Extraction in Multilayer Networks with Heterogeneous Community Structure",
+    "volume": 18,
+    "year": 2017
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "We introduce two algorithms that learn to classify Symbolic and Scalar Time Sequences (SSTS); an extension of multivariate time series. An SSTS is a set of \\emph{events} and a set of <em>scalars</em>. An <em>event</em> is defined by a symbol and a time-stamp. A <em>scalar</em> is defined by a symbol and a function mapping a number for each possible time stamp of the data. The proposed algorithms rely on temporal patterns called Graph of Temporal Constraints (GTC). A GTC is a directed graph in which vertices express occurrences of specific events, and edges express temporal constraints between occurrences of pairs of events. Additionally, each vertex of a GTC can be augmented with numeric constraints on scalar values. We allow GTCs to be cyclic and/or disconnected. The first of the introduced algorithms extracts sets of co-dependent GTCs to be used in a voting mechanism. The second algorithm builds decision forest like representations where each node is a GTC. In both algorithms, extraction of GTCs and model building are interleaved. Both algorithms are closely related to each other and they exhibit complementary properties including complexity, performance, and interpretability. The main novelties of this work reside in direct building of the model and efficient learning of GTC structures. We explain the proposed algorithms and evaluate their performance against a diverse collection of 59 benchmark data sets. In these experiments, our algorithms come across as highly competitive and in most cases closely match or outperform state-of-the-art alternatives in terms of the computational speed while dominating in terms of the accuracy of classification of time sequences.",
+    "authors": [
+        "Mathieu Guillame-Bert",
+        "Artur Dubrawski"
+    ],
+    "id": "15-403",
+    "issue": 121,
+    "pages": [
+        1,
+        34
+    ],
+    "title": "Classification of Time Sequences using Graphs of Temporal Constraints",
+    "volume": 18,
+    "year": 2017
+}

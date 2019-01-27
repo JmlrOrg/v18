@@ -1,0 +1,18 @@
+{
+    "abstract": "Derivatives, mostly in the form of gradients and Hessians, are ubiquitous in machine learning. Automatic differentiation (AD), also called algorithmic differentiation or simply \u00e2\u0080\u009cautodiff\u00e2\u0080\u009d, is a family of techniques similar to but more general than backpropagation for efficiently and accurately evaluating derivatives of numeric functions expressed as computer programs. AD is a small but established field with applications in areas including computational fluid dynamics, atmospheric sciences, and engineering design optimization. Until very recently, the fields of machine learning and AD have largely been unaware of each other and, in some cases, have independently discovered each other's results. Despite its relevance, general-purpose AD has been missing from the machine learning toolbox, a situation slowly changing with its ongoing adoption under the names \u00e2\u0080\u009cdynamic computational graphs\u00e2\u0080\u009d and \u00e2\u0080\u009cdifferentiable programming\u00e2\u0080\u009d. We survey the intersection of AD and machine learning, cover applications where AD has direct relevance, and address the main implementation techniques. By precisely defining the main differentiation techniques and their interrelationships, we aim to bring clarity to the usage of the terms \u00e2\u0080\u009cautodiff\u00e2\u0080\u009d, \u00e2\u0080\u009cautomatic differentiation\u00e2\u0080\u009d, and \u00e2\u0080\u009csymbolic differentiation\u00e2\u0080\u009d as these are encountered more and more in machine learning settings.",
+    "authors": [
+        "Atilim Gunes Baydin",
+        "Barak A. Pearlmutter",
+        "Alexey Andreyevich Radul",
+        "Jeffrey Mark Siskind"
+    ],
+    "id": "17-468",
+    "issue": 153,
+    "pages": [
+        1,
+        43
+    ],
+    "title": "Automatic Differentiation in Machine Learning: a Survey",
+    "volume": 18,
+    "year": 2018
+}

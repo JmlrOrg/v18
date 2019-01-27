@@ -1,0 +1,16 @@
+{
+    "abstract": "We show that the average stability notion introduced by Kearns and Ron (1999); Bousquet and Elisseeff (2002) is invariant to data preconditioning, for a wide class of generalized linear models that includes most of the known exp-concave losses. In other words, when analyzing the stability rate of a given algorithm, we may assume the optimal preconditioning of the data. This implies that, at least from a statistical perspective, explicit regularization is not required in order to compensate for ill-conditioned data, which stands in contrast to a widely common approach that includes a regularization for analyzing the sample complexity of generalized linear models. Several important implications of our findings include: a) We demonstrate that the excess risk of empirical risk minimization (ERM) is controlled by the preconditioned stability rate. This immediately yields a relatively short and elegant proof for the fast rates attained by ERM in our context. b) We complement the recent bounds of Hardt et al. (2015) on the stability rate of the Stochastic Gradient Descent algorithm.",
+    "authors": [
+        "Alon Gonen",
+        "Shai Shalev-Shwartz"
+    ],
+    "id": "16-503",
+    "issue": 222,
+    "pages": [
+        1,
+        13
+    ],
+    "title": "Average Stability is Invariant to Data Preconditioning. Implications to Exp-concave Empirical Risk Minimization",
+    "volume": 18,
+    "year": 2018
+}

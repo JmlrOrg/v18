@@ -1,0 +1,16 @@
+{
+    "abstract": "Topic modeling is an important tool in natural language processing. Topic models provide two forms of output. The first is a predictive model. This type of model has the ability to predict unseen documents (e.g., their categories). When topic models are used in this way, there are ample measures to assess their performance. The second output of these models is the topics themselves. Topics are lists of keywords that describe the top words pertaining to each topic. Often, these lists of keywords are presented to a human subject who then assesses the meaning of the topic, which is ultimately subjective. One of the fundamental problems of topic models lies in assessing the quality of the topics from the perspective of human interpretability. Naturally, human subjects need to be employed to evaluate interpretability of a topic. Lately, crowdsourcing approaches are widely used to serve the role of human subjects in evaluation. In this work we study measures of interpretability and propose to measure topic interpretability from two perspectives: topic coherence and topic consensus. We start with an existing measure for topic coherence---model precision. It evaluates coherence of a topic by introducing an intruded word and measuring how well a human subject or a crowdsourcing approach could identify the intruded word: if it is easy to identify, the topic is coherent. We then investigate how we can measure coherence comprehensively by examining dimensions of topic coherence. For the second perspective of topic interpretability, we suggest topic consensus that measures how well the results of a crowdsourcing approach matches those given categories of topics. Good topics should lead to good categories, thus, high topic consensus. Therefore, if there is low topic consensus in terms of categories, topics could be of low interpretability. We then further discuss how topic coherence and topic consensus assess different aspects of topic interpretability and hope that this work can pave way for comprehensive measures of topic interpretability.",
+    "authors": [
+        "Fred Morstatter",
+        "Huan Liu"
+    ],
+    "id": "17-069",
+    "issue": 169,
+    "pages": [
+        1,
+        32
+    ],
+    "title": "In Search of Coherence and Consensus: Measuring the Interpretability of Statistical Topics",
+    "volume": 18,
+    "year": 2018
+}

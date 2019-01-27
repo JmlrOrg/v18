@@ -1,0 +1,17 @@
+{
+    "abstract": "Factor Analysis (FA) is a technique of fundamental importance that is widely used in classical and modern multivariate statistics, psychometrics, and econometrics. In this paper, we revisit the classical rank-constrained FA problem which seeks to approximate an observed covariance matrix ($\\B\\Sigma$) by the sum of a Positive Semidefinite (PSD) low-rank component ($\\B\\Theta$) and a diagonal matrix ($\\B\\Phi$) (with nonnegative entries) subject to $\\B\\Sigma - \\B\\Phi$ being PSD. We propose a flexible family of rank-constrained, nonlinear Semidefinite Optimization based formulations for this task. We introduce a reformulation of the problem as a smooth optimization problem with convex, compact constraints and propose a unified algorithmic framework, utilizing state of the art techniques in nonlinear optimization to obtain high-quality feasible solutions for our proposed formulation. At the same time, by using a variety of techniques from discrete and global optimization, we show that these solutions are <em>certifiably optimal</em> in many cases, even for problems with thousands of variables. Our techniques are general and make <em>no</em> assumption on the underlying problem data. The estimator proposed herein aids statistical interpretability and provides computational scalability and significantly improved accuracy when compared to current, publicly available popular methods for rank-constrained FA. We demonstrate the effectiveness of our proposal on an array of synthetic and real-life datasets. To our knowledge, this is the first paper that demonstrates how a previously intractable rank-constrained optimization problem can be solved to provable optimality by coupling developments in convex analysis and in global and discrete optimization.",
+    "authors": [
+        "Dimitris Bertsimas",
+        "Martin S. Copenhaver",
+        "Rahul Mazumder"
+    ],
+    "id": "15-613",
+    "issue": 29,
+    "pages": [
+        1,
+        53
+    ],
+    "title": "Certifiably Optimal Low Rank Factor Analysis",
+    "volume": 18,
+    "year": 2017
+}

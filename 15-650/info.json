@@ -1,0 +1,17 @@
+{
+    "abstract": "We study the problem of identifying <em>unreliable</em> and <em>adversarial</em> workers in crowdsourcing systems where workers (or users) provide labels for tasks (or items). Most existing studies assume that worker responses follow specific probabilistic models; however, recent evidence shows the presence of workers adopting non-random or even malicious strategies. To account for such workers, we suppose that workers comprise a mixture of honest and adversarial workers. <em>Honest</em> workers may be reliable or unreliable, and they provide labels according to an unknown but explicit probabilistic model. <em>Adversaries</em> adopt labeling strategies different from those of honest workers, whether probabilistic or not. We propose two reputation algorithms to identify unreliable honest workers and adversarial workers from <em>only</em> their responses. Our algorithms assume that honest workers are in the majority, and they classify workers with outlier label patterns as adversaries. Theoretically, we show that our algorithms successfully identify unreliable honest workers, workers adopting deterministic strategies, and worst- case <em>sophisticated</em> adversaries who can adopt arbitrary labeling strategies to degrade the accuracy of the inferred task labels. Empirically, we show that filtering out outliers using our algorithms can significantly improve the accuracy of several state-of-the-art label aggregation algorithms in real-world crowdsourcing datasets.",
+    "authors": [
+        "Srikanth Jagabathula",
+        "Lakshminarayanan Subramanian",
+        "Ashwin Venkataraman"
+    ],
+    "id": "15-650",
+    "issue": 93,
+    "pages": [
+        1,
+        67
+    ],
+    "title": "Identifying Unreliable and Adversarial Workers in Crowdsourced Labeling Tasks",
+    "volume": 18,
+    "year": 2017
+}

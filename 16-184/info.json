@@ -1,0 +1,16 @@
+{
+    "abstract": "The problem of testing mutual independence between many random vectors is addressed. The closely related problem of testing serial independence of a multivariate stationary sequence is also considered. The M\u00c3\u00b6bius transformation of characteristic functions is used to characterize independence. A generalization to $p$ vectors of distance covariance and Hilbert-Schmidt independence criterion ($HSIC$) tests with the translation invariant kernel of a stable probability distribution is proposed. Both test statistics can be expressed in a simple form as a sum over all elements of a componentwise product of $p$ doubly-centered matrices. It is shown that an $HSIC$ statistic with sufficiently small scale parameters is equivalent to a distance covariance statistic. Consistency and weak convergence of both types of statistics are established. Approximation of $p$-values is made by randomization tests without recomputing interpoint distances for each randomized sample. The dependogram is adapted to the proposed tests for the graphical identification of sources of dependencies. Empirical rejection rates obtained through extensive simulations confirm both the applicability of the testing procedures in small samples and the high level of competitiveness in terms of power. Applications to meteorological and financial data provide some interesting interpretations of dependencies revealed by dependograms.",
+    "authors": [
+        "Martin Bilodeau",
+        "Aur{{\\'e}}lien Guetsop Nangue"
+    ],
+    "id": "16-184",
+    "issue": 74,
+    "pages": [
+        1,
+        40
+    ],
+    "title": "Tests of Mutual or Serial Independence of Random Vectors with Applications",
+    "volume": 18,
+    "year": 2017
+}

@@ -1,0 +1,18 @@
+{
+    "abstract": "To find optimal decision rule, Fan et al. (2016) proposed an innovative concordance-assisted learning algorithm which is based on maximum rank correlation estimator. It makes better use of the available information through pairwise comparison. However the objective function is discontinuous and computationally hard to optimize. In this paper, we consider a convex surrogate loss function to solve this problem. In addition, our algorithm ensures sparsity of decision rule and renders easy interpretation. We derive the $L_2$ error bound of the estimated coefficients under ultra-high dimension. Simulation results of various settings and application to STAR*D both illustrate that the proposed method can still estimate optimal treatment regime successfully when the number of covariates is large.",
+    "authors": [
+        "Shuhan Liang",
+        "Wenbin Lu",
+        "Rui Song",
+        "Lan Wang"
+    ],
+    "id": "17-159",
+    "issue": 202,
+    "pages": [
+        1,
+        26
+    ],
+    "title": "Sparse Concordance-assisted Learning for Optimal Treatment Decision",
+    "volume": 18,
+    "year": 2018
+}

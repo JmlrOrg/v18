@@ -1,0 +1,17 @@
+{
+    "abstract": "Topological data analysis (TDA) is an emerging mathematical concept for characterizing shapes in complicated data. In TDA, persistence diagrams are widely recognized as a useful descriptor of data, distinguishing robust and noisy topological properties. This paper introduces a kernel method for persistence diagrams to develop a statistical framework in TDA. The proposed kernel is stable under perturbation of data, enables one to explicitly control the effect of persistence by a weight function, and allows an efficient and accurate approximate computation. The method is applied into practical data on granular systems, oxide glasses and proteins, showing advantages of our method compared to other relevant methods for persistence diagrams.",
+    "authors": [
+        "Genki Kusano",
+        "Kenji Fukumizu",
+        "Yasuaki Hiraoka"
+    ],
+    "id": "17-317",
+    "issue": 189,
+    "pages": [
+        1,
+        41
+    ],
+    "title": "Kernel Method for Persistence Diagrams via Kernel Embedding and Weight Factor",
+    "volume": 18,
+    "year": 2018
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Learning a causal effect from observational data requires strong assumptions. One possible method is to use instrumental variables, which are typically justified by background knowledge. It is possible, under further assumptions, to discover whether a variable is structurally instrumental to a target causal effect $X \\rightarrow Y$. However, the few existing approaches are lacking on how general these assumptions can be, and how to express possible equivalence classes of solutions. We present instrumental variable discovery methods that systematically characterize which set of causal effects can and cannot be discovered under local graphical criteria that define instrumental variables, without reconstructing full causal graphs. We also introduce the first methods to exploit non-Gaussianity assumptions, highlighting identifiability problems and solutions. Due to the difficulty of estimating such models from finite data, we investigate how to strengthen assumptions in order to make the statistical problem more manageable.",
+    "authors": [
+        "Ricardo Silva",
+        "Shohei Shimizu"
+    ],
+    "id": "17-014",
+    "issue": 120,
+    "pages": [
+        1,
+        49
+    ],
+    "title": "Learning Instrumental Variables with Structural and Non-Gaussianity Assumptions",
+    "volume": 18,
+    "year": 2017
+}

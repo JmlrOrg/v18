@@ -1,0 +1,16 @@
+{
+    "abstract": "We introduce pycobra, a Python library devoted to ensemble learning (regression and classification) and visualisation. Its main assets are the implementation of several ensemble learning algorithms, a flexible and generic interface to compare and blend any existing machine learning algorithm available in Python libraries (as long as a predict method is given), and visualisation tools such as Voronoi tessellations. pycobra is fully scikit-learn compatible and is released under the MIT open-source license. pycobra can be downloaded from the Python Package Index (PyPi) and Machine Learning Open Source Software (MLOSS). The current version (along with Jupyter notebooks, extensive documentation, and continuous integration tests) is available at <a href=\"https://github.com/bhargavvader/pycobra\">https://github.com/bhargavvader/pycobra</a> and official documentation website is <a href=\"https://modal.lille.inria.fr/pycobra\">https://modal.lille.inria.fr/pycobra</a>.",
+    "authors": [
+        "Benjamin Guedj",
+        "Bhargav Srinivasa Desikan"
+    ],
+    "id": "17-228",
+    "issue": 190,
+    "pages": [
+        1,
+        5
+    ],
+    "title": "Pycobra: A Python Toolbox for Ensemble Learning and Visualisation",
+    "volume": 18,
+    "year": 2018
+}

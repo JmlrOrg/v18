@@ -1,0 +1,15 @@
+{
+    "abstract": "Biological brains can learn, recognize, organize, and re- generate large repertoires of temporal patterns. Here I propose a mechanism of neurodynamical pattern learning and representation, called <em>conceptors</em>, which offers an integrated account of a number of such phenomena and functionalities. It becomes possible to store a large number of temporal patterns in a single recurrent neural network. In the recall process, stored patterns can be morphed and <q>focussed</q>. Parametric families of patterns can be learnt from a very small number of examples. Stored temporal patterns can be content- addressed in ways that are analog to recalling static patterns in Hopfield networks.",
+    "authors": [
+        "Herbert Jaeger"
+    ],
+    "id": "15-449",
+    "issue": 13,
+    "pages": [
+        1,
+        43
+    ],
+    "title": "Using Conceptors to Manage Neural Long-Term Memories for Temporal Patterns",
+    "volume": 18,
+    "year": 2017
+}

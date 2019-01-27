@@ -1,0 +1,17 @@
+{
+    "abstract": "We propose a scheme for finding a \"good\" estimator for the gradient of a function on a high-dimensional space with few function evaluations, for applications where function evaluations are expensive and the function under consideration is not sensitive in all coordinates locally, making its gradient almost sparse. Exploiting the latter aspect, our method combines ideas from Spall's Simultaneous Perturbation Stochastic Approximation with compressive sensing. We theoretically justify its computational advantages and illustrate them empirically by numerical experiments. In particular, applications to estimating gradient outer product matrix as well as standard optimization problems are illustrated via simulations.",
+    "authors": [
+        "Vivek S. Borkar",
+        "Vikranth R. Dwaracherla",
+        "Neeraja Sahasrabudhe"
+    ],
+    "id": "15-592",
+    "issue": 161,
+    "pages": [
+        1,
+        27
+    ],
+    "title": "Gradient Estimation with Simultaneous Perturbation and Compressive Sensing",
+    "volume": 18,
+    "year": 2018
+}

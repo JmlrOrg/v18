@@ -1,0 +1,21 @@
+{
+    "abstract": "KELP is a Java framework that enables fast and easy implementation of kernel functions over discrete data, such as strings, trees or graphs and their combination with standard vectorial kernels. Additionally, it provides several kernel- based algorithms, e.g., online and batch kernel machines for classification, regression and clustering, and a Java environment for easy implementation of new algorithms. KELP is a versatile toolkit, very appealing both to experts and practitioners of machine learning and Java language programming, who can find extensive documentation, tutorials and examples of increasing complexity on the accompanying website. Interestingly, KELP can be also used without any knowledge of Java programming through command line tools and JSON/XML interfaces enabling the declaration and instantiation of articulated learning models using simple templates. Finally, the extensive use of modularity and interfaces in KELP enables developers to easily extend it with their own kernels and algorithms.",
+    "authors": [
+        "Simone Filice",
+        "Giuseppe Castellucci",
+        "Giovanni Da San Martino",
+        "Aless",
+        "ro Moschitti",
+        "Danilo Croce",
+        "Roberto Basili"
+    ],
+    "id": "16-087",
+    "issue": 191,
+    "pages": [
+        1,
+        5
+    ],
+    "title": "KELP: a Kernel-based Learning Platform",
+    "volume": 18,
+    "year": 2018
+}

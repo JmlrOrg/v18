@@ -1,0 +1,17 @@
+{
+    "abstract": "In statistics and machine learning, we are interested in the eigenvectors (or singular vectors) of certain matrices (e.g. covariance matrices, data matrices, etc). However, those matrices are usually perturbed by noises or statistical errors, either from random sampling or structural patterns. The Davis- Kahan $\\sin \\theta$ theorem is often used to bound the difference between the eigenvectors of a matrix $A$ and those of a perturbed matrix $\\widetilde{A} = A + E$, in terms of $\\ell_2$ norm. In this paper, we prove that when $A$ is a low-rank and incoherent matrix, the $\\ell_{\\infty}$ norm perturbation bound of singular vectors (or eigenvectors in the symmetric case) is smaller by a factor of $\\sqrt{d_1}$ or $\\sqrt{d_2}$ for left and right vectors, where $d_1$ and $d_2$ are the matrix dimensions. The power of this new perturbation result is shown in robust covariance estimation, particularly when random variables have heavy tails. There, we propose new robust covariance estimators and establish their asymptotic properties using the newly developed perturbation bound. Our theoretical results are verified through extensive numerical experiments.",
+    "authors": [
+        "Jianqing Fan",
+        "Weichen Wang",
+        "Yiqiao Zhong"
+    ],
+    "id": "16-140",
+    "issue": 207,
+    "pages": [
+        1,
+        42
+    ],
+    "title": "An $\\ell_{\\infty}$ Eigenvector Perturbation Bound and Its Application",
+    "volume": 18,
+    "year": 2018
+}

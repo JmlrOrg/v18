@@ -1,0 +1,19 @@
+{
+    "abstract": "Performance of machine learning algorithms depends critically on identifying a good set of hyperparameters. While recent approaches use Bayesian optimization to adaptively select configurations, we focus on speeding up random search through adaptive resource allocation and early-stopping. We formulate hyperparameter optimization as a pure-exploration non-stochastic infinite-armed bandit problem where a predefined resource like iterations, data samples, or features is allocated to randomly sampled configurations. We introduce a novel algorithm, \u00c3\u00b8uralg , for this framework and analyze its theoretical properties, providing several desirable guarantees. Furthermore, we compare \u00c3\u00b8uralg with popular Bayesian optimization methods on a suite of hyperparameter optimization problems. We observe that \u00c3\u00b8uralg can provide over an order-of-magnitude speedup over our competitor set on a variety of deep-learning and kernel-based learning problems.",
+    "authors": [
+        "Lisha Li",
+        "Kevin Jamieson",
+        "Giulia DeSalvo",
+        "Afshin Rostamizadeh",
+        "Ameet Talwalkar"
+    ],
+    "id": "16-558",
+    "issue": 185,
+    "pages": [
+        1,
+        52
+    ],
+    "title": "Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization",
+    "volume": 18,
+    "year": 2018
+}

@@ -1,0 +1,17 @@
+{
+    "abstract": "Feature Selection is central to modern data science, from exploratory data analysis to predictive model-building. The \u00e2\u0080\u009cstability\u00e2\u0080\u009d of a feature selection algorithm refers to the robustness of its feature preferences, with respect to data sampling and to its stochastic nature. An algorithm is `unstable' if a small change in data leads to large changes in the chosen feature subset. Whilst the idea is simple, quantifying this has proven more challenging---we note numerous proposals in the literature, each with different motivation and justification. We present a rigorous statistical treatment for this issue. In particular, with this work we consolidate the literature and provide (1) a deeper understanding of existing work based on a small set of properties, and (2) a clearly justified statistical approach with several novel benefits. This approach serves to identify a stability measure obeying all desirable properties, and (for the first time in the literature) allowing confidence intervals and hypothesis tests on the stability, enabling rigorous experimental comparison of feature selection algorithms.",
+    "authors": [
+        "Sarah Nogueira",
+        "Konstantinos Sechidis",
+        "Gavin Brown"
+    ],
+    "id": "17-514",
+    "issue": 174,
+    "pages": [
+        1,
+        54
+    ],
+    "title": "On the Stability of Feature Selection Algorithms",
+    "volume": 18,
+    "year": 2018
+}

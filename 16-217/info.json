@@ -1,0 +1,17 @@
+{
+    "abstract": "We initiate the rigorous study of classification in semimetric spaces, which are point sets with a distance function that is non-negative and symmetric, but need not satisfy the triangle inequality. We define the <em>density dimension</em> dens and discover that it plays a central role in the statistical and algorithmic feasibility of learning in semimetric spaces. We compute this quantity for several widely used semimetrics and present nearly optimal sample compression algorithms, which are then used to obtain generalization guarantees, including fast rates. Our claim of near-optimality holds in both computational and statistical senses. When the sample has radius $R$ and margin $\\gamma$, we show that it can be compressed down to roughly $d=(R/\\gamma)^{\\text{dens}}$ points, and further that finding a significantly better compression is algorithmically intractable unless P=NP. This compression implies generalization via standard Occam-type arguments, to which we provide a nearly matching lower bound.",
+    "authors": [
+        "Lee-Ad Gottlieb",
+        "Aryeh Kontorovich",
+        "Pinhas Nisnevitch"
+    ],
+    "id": "16-217",
+    "issue": 37,
+    "pages": [
+        1,
+        22
+    ],
+    "title": "Nearly optimal classification for semimetrics",
+    "volume": 18,
+    "year": 2017
+}
