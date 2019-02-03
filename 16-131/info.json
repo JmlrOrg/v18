@@ -11,5 +11,10 @@
     ],
     "title": "JSAT: Java Statistical Analysis Tool, a Library for Machine Learning",
     "volume": 18,
-    "year": 2017
+    "year": 2017,
+    "extra_links": [
+        ["code", "https://github.com/EdwardRaff/JSAT"],
+        ["webpage", "https://github.com/EdwardRaff/JSAT"]
+    ],
+    "special_issue": "MLOSS"
 }

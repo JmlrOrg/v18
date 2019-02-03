@@ -14,5 +14,10 @@
     ],
     "title": "Refinery: An Open Source Topic Modeling Web Platform",
     "volume": 18,
-    "year": 2017
+    "year": 2017,
+    "extra_links": [
+        ["code", "https://github.com/daeilkim/refinery"],
+        ["webpage", "http://daeilkim.github.io/refinery/"]
+      ],
+      "special_issue": "MLOSS"
 }

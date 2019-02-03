@@ -15,5 +15,11 @@
     ],
     "title": "Auto-WEKA 2.0: Automatic model selection and hyperparameter optimization in WEKA",
     "volume": 18,
-    "year": 2017
+    "year": 2017,
+    "extra_links": [
+        ["code", "https://github.com/automl/autoweka"], 
+        ["webpage", "http://www.cs.ubc.ca/labs/beta/Projects/autoweka/"]
+      ],
+    "special_issue": "MLOSS"
+
 }

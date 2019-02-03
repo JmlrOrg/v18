@@ -11,5 +11,8 @@
     ],
     "title": "Using Conceptors to Manage Neural Long-Term Memories for Temporal Patterns",
     "volume": 18,
-    "year": 2017
+    "year": 2017,
+    "extra_links": [
+        ["supplementary", "http://www.jmlr.org/papers/volume18/15-449/supplementary/conceptorsMatlab4JMRL.zip"]
+    ]
 }

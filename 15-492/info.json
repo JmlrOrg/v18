@@ -17,5 +17,10 @@
     ],
     "title": "SnapVX: A Network-Based Convex Optimization Solver",
     "volume": 18,
-    "year": 2017
+    "year": 2017,
+    "extra_links": [
+        ["code", "http://snap.stanford.edu/snapvx/#install"],
+        ["stanford.edu", "http://snap.stanford.edu/snapvx/"]
+    ],
+    "special_issue": "MLOSS"
 }
