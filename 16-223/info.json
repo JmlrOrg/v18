@@ -11,5 +11,8 @@
     ],
     "title": "Bridging Supervised Learning and Test-Based Co-optimization",
     "volume": 18,
-    "year": 2017
+    "year": 2017,
+    "extra_links": [
+        ["appendix", "http://www.jmlr.org/papers/volume18/16-223/16-223-appendix1.pdf"]
+      ]
 }

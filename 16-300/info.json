@@ -16,5 +16,11 @@
     ],
     "title": "POMDPs.jl: A Framework for Sequential Decision Making under Uncertainty",
     "volume": 18,
-    "year": 2017
+    "year": 2017,
+    "extra_links": [
+        ["code", "https://github.com/JuliaPOMDP/POMDPs.jl"],
+        ["webpage", "http://juliapomdp.github.io/"]
+      ],
+      "special_issue": "MLOSS"
+
 }

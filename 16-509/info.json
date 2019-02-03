@@ -13,5 +13,10 @@
     ],
     "title": "GFA: Exploratory Analysis of Multiple Data Sources with Group Factor Analysis",
     "volume": 18,
-    "year": 2017
+    "year": 2017,
+    "extra_links": [
+        ["code", "https://cran.r-project.org/web/packages/GFA/index.html"],
+        ["r-project.org", "https://cran.r-project.org/web/packages/GFA/index.html"]
+      ],
+      "special_issue": "MLOSS"
 }
