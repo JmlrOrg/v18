@@ -15,5 +15,10 @@
     ],
     "title": "tick: a Python Library for Statistical Learning, with an emphasis on Hawkes Processes and Time-Dependent Models",
     "volume": 18,
-    "year": 2018
+    "year": 2018,
+    "extra_links": [
+        ["code", "https://github.com/X-DataInitiative/tick"],
+        ["webpage", "https://x-datainitiative.github.io/tick/"]
+      ],
+      "special_issue": "MLOSS"
 }

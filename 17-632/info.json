@@ -11,5 +11,9 @@
     ],
     "title": "SGDLibrary: A MATLAB library for stochastic optimization algorithms",
     "volume": 18,
-    "year": 2018
+    "year": 2018,
+    "extra_links": [
+        ["code", "https://github.com/hiroyuki-kasai/SGDLibrary"]
+      ],
+      "special_issue": "MLOSS"
 }

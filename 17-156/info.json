@@ -15,5 +15,9 @@
     ],
     "title": "The MADP Toolbox: An Open Source Library for Planning and Learning in (Multi-)Agent Systems",
     "volume": 18,
-    "year": 2017
+    "year": 2017,
+    "extra_links": [
+        ["code", "https://github.com/MADPToolbox/MADP"]
+      ],
+      "special_issue": "MLOSS"
 }

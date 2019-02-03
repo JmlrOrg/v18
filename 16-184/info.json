@@ -12,5 +12,8 @@
     ],
     "title": "Tests of Mutual or Serial Independence of Random Vectors with Applications",
     "volume": 18,
-    "year": 2017
+    "year": 2017,
+    "extra_links": [
+        ["supplementary", "http://www.jmlr.org/papers/volume18/16-184/supplementary.zip"]
+    ]
 }

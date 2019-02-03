@@ -1,5 +1,5 @@
 {
-    "abstract": "Dimensionality reduction algorithms have played a foundational role in facilitating the deep understanding of complex high- dimensional data. One particularly useful application of dimensionality reduction techniques is in data visualization. Low-dimensional visualizations can help practitioners understand where machine learning algorithms might leverage the geometric properties of a dataset to improve performance. Another challenge is to generalize insights across datasets [e.g. data from multiple modalities describing the same system (Haxby et al., 2011), artwork or photographs of similar content in different styles (Zhu et al., 2017), etc.]. Several recently developed techniques(e.g. Haxby et al., 2011; Chen et al., 2015) use the procrustean transformation (Sch\u00c3\u00b6nemann, 1966) to align the geometries of two or more spaces so that data with different axes may be plotted in a common space. We propose that each of these techniques (dimensionality reduction, alignment, and visualization) applied in sequence should be cast as a single conceptual <em>hyperplot</em> operation for gaining geometric insights into high-dimensional data. Our Python toolbox enables this operation in a single (highly flexible) function call.",
+    "abstract": "Dimensionality reduction algorithms have played a foundational role in facilitating the deep understanding of complex high- dimensional data. One particularly useful application of dimensionality reduction techniques is in data visualization. Low-dimensional visualizations can help practitioners understand where machine learning algorithms might leverage the geometric properties of a dataset to improve performance. Another challenge is to generalize insights across datasets [e.g. data from multiple modalities describing the same system (Haxby et al., 2011), artwork or photographs of similar content in different styles (Zhu et al., 2017), etc.]. Several recently developed techniques(e.g. Haxby et al., 2011; Chen et al., 2015) use the procrustean transformation (Schonemann, 1966) to align the geometries of two or more spaces so that data with different axes may be plotted in a common space. We propose that each of these techniques (dimensionality reduction, alignment, and visualization) applied in sequence should be cast as a single conceptual <em>hyperplot</em> operation for gaining geometric insights into high-dimensional data. Our Python toolbox enables this operation in a single (highly flexible) function call.",
     "authors": [
         "Andrew C. Heusser",
         "Kirsten Ziman",
@@ -14,5 +14,10 @@
     ],
     "title": "HyperTools: a Python Toolbox for Gaining Geometric Insights into High-Dimensional Data",
     "volume": 18,
-    "year": 2018
+    "year": 2018,
+    "extra_links": [
+        ["code", "https://github.com/ContextLab/hypertools"],
+        ["webpage", "https://hypertools.readthedocs.io/en/latest/"]
+      ],
+      "special_issue": "MLOSS"
 }

@@ -12,5 +12,10 @@
     ],
     "title": "Pycobra: A Python Toolbox for Ensemble Learning and Visualisation",
     "volume": 18,
-    "year": 2018
+    "year": 2018,
+    "extra_links": [
+        ["code", "https://github.com/bhargavvader/pycobra"],
+        ["webpage", "https://modal.lille.inria.fr/pycobra/"]
+      ],
+      "special_issue": "MLOSS"
 }

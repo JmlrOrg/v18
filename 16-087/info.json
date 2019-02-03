@@ -17,5 +17,10 @@
     ],
     "title": "KELP: a Kernel-based Learning Platform",
     "volume": 18,
-    "year": 2018
+    "year": 2018,
+    "extra_links": [
+        ["code", "https://github.com/SAG-KeLP"],
+        ["webpage", "http://www.kelp-ml.org"]
+      ],
+      "special_issue": "MLOSS"
 }

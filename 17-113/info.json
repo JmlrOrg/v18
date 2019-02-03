@@ -12,5 +12,9 @@
     ],
     "title": "openXBOW -- Introducing the Passau Open-Source Crossmodal Bag-of-Words Toolkit",
     "volume": 18,
-    "year": 2017
+    "year": 2017,
+    "extra_links": [
+        ["code", "https://github.com/openXBOW/openXBOW"]
+      ],
+      "special_issue": "MLOSS"
 }
