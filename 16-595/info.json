@@ -1,7 +1,10 @@
 {
     "abstract": " <p>This work characterizes the benefits of averaging techniques widely used in conjunction with stochastic gradient descent (SGD). In particular, this work presents a sharp analysis of: (1) mini-batching, a method of averaging many samples of a stochastic gradient to both reduce the variance of a stochastic gradient estimate and for parallelizing SGD and (2) tail- averaging, a method involving averaging the final few iterates of SGD in order to decrease the variance in SGD's final iterate. This work presents sharp finite sample generalization error bounds for these schemes for the stochastic approximation problem of least squares regression. </p> <p>Furthermore, this work establishes a precise problem-dependent extent to which mini- batching can be used to yield provable near-linear parallelization speedups over SGD with batch size one. This characterization is used to understand the relationship between learning rate versus batch size when considering the excess risk of the final iterate of an SGD procedure. Next, this mini- batching characterization is utilized in providing a highly parallelizable SGD method that achieves the minimax risk with nearly the same number of serial updates as batch gradient descent, improving significantly over existing SGD-style methods. Following this, a non-asymptotic excess risk bound for model averaging (which is a communication efficient parallelization scheme) is provided.</p> <p>Finally, this work sheds light on fundamental differences in SGD's behavior when dealing with mis-specified models in the non-realizable least squares problem. This paper shows that maximal stepsizes ensuring minimax risk for the mis-specified case <i>must</i> depend on the noise properties.</p> <p>The analysis tools used by this paper generalize the operator view of averaged SGD  (D\u00c3\u00a9fossez and  Bach,  2015) followed by developing a novel analysis in bounding these operators to characterize the generalization error. These techniques are of broader interest in analyzing various computational aspects of stochastic approximation.</p>",
     "authors": [
-        "Prateek Jain, Sham M. Kakade, Rahul Kidambi, Praneeth Netrapalli",
+        "Prateek Jain",
+        "Sham M. Kakade",
+        "Rahul Kidambi",
+        "Praneeth Netrapalli",
         "Aaron Sidford"
     ],
     "id": "16-595",

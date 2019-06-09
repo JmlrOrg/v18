@@ -1,8 +1,8 @@
 {
     "abstract": "A binary classification problem is considered. The excess error probability of the $k$-nearest-neighbor classification rule according to the error probability of the Bayes decision is revisited by a decomposition of the excess error probability into approximation and estimation errors. Under a weak margin condition and under a modified Lipschitz condition or a local Lipschitz condition, tight upper bounds are presented such that one avoids the condition that the feature vector is bounded. The concept of modified Lipschitz condition is applied for discrete distributions, too. As a consequence of both concepts, we present the rate of convergence of $L_2$ error for the corresponding nearest neighbor regression estimate.",
     "authors": [
-        "Maik D{\\\"o}ring",
-        "L{\\'a}szl{\\'o} Gy{\\\"o}rfi",
+        "Maik D{{\\\"o}}ring",
+        "L{{\\'a}}szl{{\\'o}} Gy{{\\\"o}}rfi",
         "Harro Walk"
     ],
     "id": "17-755",

@@ -2,7 +2,7 @@
     "abstract": "We propose a generic Bayesian mixed-effects model to estimate the temporal progression of a biological phenomenon from observations obtained at multiple time points for a group of individuals. The progression is modeled by continuous trajectories in the space of measurements. Individual trajectories of progression result from spatiotemporal transformations of an average trajectory. These transformations allow for the quantification of changes in direction and pace at which the trajectories are followed. The framework of Riemannian geometry allows the model to be used with any kind of measurements with smooth constraints. A stochastic version of the Expectation-Maximization algorithm is used to produce maximum <em>a posteriori</em> estimates of the parameters. We evaluated our method using a series of neuropsychological test scores from patients with mild cognitive impairments, later diagnosed with Alzheimer's disease, and simulated evolutions of symmetric positive definite matrices. The data-driven model of impairment of cognitive functions illustrated the variability in the ordering and timing of the decline of these functions in the population. We showed that the estimated spatiotemporal transformations effectively put into correspondence significant events in the progression of individuals.",
     "authors": [
         "Jean-Baptiste Schiratti",
-        "St\\'{e}phanie Allassonni\\`{e}re",
+        "St{{\\'e}}phanie Allassonni{{\\`e}}re",
         "Olivier Colliot",
         "Stanley Durrleman"
     ],
