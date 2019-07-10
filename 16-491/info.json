@@ -13,5 +13,9 @@
     ],
     "title": "Second-Order Stochastic Optimization for Machine Learning in Linear Time",
     "volume": 18,
-    "year": 2017
+    "year": 2017,
+    "extra_links": [
+      ["erratum", "http://jmlr.org/papers/volume18/16-491/agarwal17a_erratum.pdf"]
+    ]
+
 }
