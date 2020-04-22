@@ -13,5 +13,6 @@
     ],
     "title": "Efficient Sampling from Time-Varying Log-Concave Distributions",
     "volume": 18,
-    "year": 2017
+    "year": 2017,
+    "special_issue": "Bayesian Optimization"
 }
