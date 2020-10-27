@@ -1,5 +1,5 @@
 {
-    "abstract": "Java Statistical Analysis Tool (JSAT) is a Machine Learning library written in pure Java. It works to fill a void in the Java ecosystem for a general purpose library that is relatively high performance and flexible, which is not adequately fulfilled by Weka (Hall et al., 2009) and Java-ML (Abeel et al., 2009). Almost all of the algorithms are independently implemented using an Object- Oriented framework. JSAT is made available under the GNU GPL license here:  <a href=\"https://github.com/EdwardRaff/JS AT\">github.com/EdwardRaff/JSAT</a>.",
+    "abstract": "Java Statistical Analysis Tool (JSAT) is a Machine Learning library written in pure Java. It works to fill a void in the Java ecosystem for a general purpose library that is relatively high performance and flexible, which is not adequately fulfilled by Weka (Hall et al., 2009) and Java-ML (Abeel et al., 2009). Almost all of the algorithms are independently implemented using an Object- Oriented framework. JSAT is made available under the GNU GPL license here:  <a href=\"https://github.com/EdwardRaff/JSAT\">github.com/EdwardRaff/JSAT</a>.",
     "authors": [
         "Edward Raff"
     ],
