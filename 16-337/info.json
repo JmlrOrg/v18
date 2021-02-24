@@ -20,5 +20,8 @@
     ],
     "title": "Persistence Images: A Stable Vector Representation of Persistent Homology",
     "volume": 18,
-    "year": 2017
+    "year": 2017,
+    "extra_links": [
+        ["erratum", "https://jmlr.org/papers/volume18/16-337/pi_erratum.pdf"]
+    ]
 }
