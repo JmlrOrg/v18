@@ -1,13 +1,11 @@
 {
     "abstract": "Let $P$ be a distribution with support $S$. The salient features of $S$ can be quantified with persistent homology, which summarizes topological features of the sublevel sets of the distance function (the distance of any point $x$ to $S$). Given a sample from $P$ we can infer the persistent homology using an empirical version of the distance function. However, the empirical distance function is highly non-robust to noise and outliers. Even one outlier is deadly. The distance-to-a-measure (DTM), introduced by \\cite{chazal2011geometric}, and the kernel distance, introduced by \\cite{phillips2014goemetric}, are smooth functions that provide useful topological information but are robust to noise and outliers. \\cite{massart2014} derived concentration bounds for DTM. Building on these results, we derive limiting distributions and confidence sets, and we propose a method for choosing tuning parameters.",
     "authors": [
-        "Fr{\\'e}d{\\'e}ric Chazal",
+        "Frédéric Chazal",
         "Brittany Fasy",
         "Fabrizio Lecci",
-        "Bertr",
-        "Michel",
-        "Aless",
-        "ro Rinaldo",
+        "Bertrand Michel",
+        "Alessandro Rinaldo",
         "Larry Wasserman"
     ],
     "id": "15-484",
